@@ -118,7 +118,7 @@ class Mentor
                         <td>' . $row["current_state"] . '</td>
                         <td>' . $row["employment_status"] . '</td>
                         <td>' . $row["timestamp"] . '</td>
-                        <td>' . '<a href="registered_mentors.php?acceptMentorId=' . $row["mentor_id"] . '" class="btn btn-primary btn-sm" style="margin-right: 5px;">Accept</a>' .'<a href="registered_mentors.php?rejectMentorId=' . $row["mentor_id"] . '" class="btn btn-warning btn-sm" style="margin-right: 5px;">Reject</a>' .'</td>
+                        <td>' . '<a href="registered_mentors.php?acceptMentorId=' . $row["mentor_id"] . '" class="btn btn-primary btn-sm" style="margin-right: 5px;" >Accept</a>' .'<a href="registered_mentors.php?rejectMentorId=' . $row["mentor_id"] . '" class="btn btn-warning btn-sm" style="margin-right: 5px;">Reject</a>' .'</td>
                         
                         
 

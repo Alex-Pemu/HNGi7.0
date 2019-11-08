@@ -188,7 +188,7 @@ if(isset($_GET["ApproveExperiences"])) {
                             <a href="edit_experience.php?id=<?php echo $item['id']; ?>" class="btn btn-sm btn-info">Edit</a>
                         </td>
                         <td>
-                            <a href="?action=delete&id=<?php echo $item['id']; ?>" class="btn btn-sm btn-danger" onclick="return confirm('Are you sure you want to delete the record?')">Delete</a>
+                            <a href="?action=de lete&id=<?php echo $item['id']; ?>" class="btn btn-sm btn-danger" onclick="return confirm('Are you sure you want to delete the record?')">Delete</a>
 
                         </td>
                     </tr>
