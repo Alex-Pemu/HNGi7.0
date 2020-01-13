@@ -11,7 +11,7 @@
                     <a href="join-intern" class="skyblue-text">Join HNG</a>
                     <a href="about" class="skyblue-text">About HNG</a>
                     <a href="donate" class="skyblue-text">Become a Sponsor</a>
-                    <a href="MentorSetUpPage2" class="skyblue-text">Sign up as Mentor</a>
+                    <a href="mentor-registration" class="skyblue-text">Sign up as Mentor</a>
                     <a href="faq" class="skyblue-text">FAQ</a>
                     <a href="intern-experience" class="skyblue-text">Past Intern Experience</a>
                     <a href="request_certificate">Request Certificate</a>
@@ -23,18 +23,11 @@
             <div class="col-md-3 pb-3 footer-section">
                 <h2 class="skyblue-text">Contact Us</h2>
                 <div>
-                    <a href="tel:+2348123456789">
-                        <strong>
-                            Phone: <br />
-                        </strong>
-                        +234 812 345 6789
-                    </a>
-                    <br />
-                    <a href="mailto:interns@hng.tech">
+                    <a href="mailto:hngi7@hng.tech">
                         <strong>
                             Email: <br />
                         </strong>
-                        interns@hng.tech
+                        hngi7@hng.tech
                     </a>
                 </div>
             </div>
